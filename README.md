@@ -20,9 +20,6 @@ https://github.com/Asrez/react-native-test-16/issues/1
 
 
 <h3>اسکرین شات</h3>
-صفحه خطا اینترنت:
-
-![image](https://github.com/Asrez/react-native-test-15/assets/2658040/6d67103e-abe7-43d7-b531-c9558a82917a)
 
 
 صفحه اسپلش:
@@ -31,11 +28,11 @@ https://github.com/Asrez/react-native-test-16/issues/1
 
 صفحه اصلی:
 
-![image](https://github.com/Asrez/react-native-test-16/assets/2658040/27bd61de-3545-4cac-bf26-4e635e56a28f)
+![image](https://github.com/Asrez/react-native-test-16/assets/2658040/51fe81d1-1270-475e-9636-a438c3232ac5)
 
 
 صفحه چت:
-![image](https://github.com/Asrez/react-native-test-16/assets/2658040/51fe81d1-1270-475e-9636-a438c3232ac5)
+![image](https://github.com/Asrez/react-native-test-16/assets/2658040/27bd61de-3545-4cac-bf26-4e635e56a28f)
 
 </div>
 
